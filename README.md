@@ -10,7 +10,7 @@ Utilized appropriate data types and constraints to ensure data integrity and opt
 
 Data Import and Export:
 
-Successfully imported complex datasets from CSV files into SQL Server using the SQL Server Import and Export Wizard.
+Successfully imported complex datasets.
 
 Troubleshooted common issues such as file access errors and missing providers, ensuring smooth data integration.
 
