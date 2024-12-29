@@ -12,8 +12,6 @@ Data Import and Export:
 
 Successfully imported complex datasets.
 
-Troubleshooted common issues such as file access errors and missing providers, ensuring smooth data integration.
-
 Advanced Querying:
 
 Crafted complex SQL queries to perform various data analysis tasks, such as calculating average scores, identifying top-grossing movies, and analyzing budget recovery percentages.
