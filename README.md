@@ -1,4 +1,3 @@
-Portfolio Project: Mastering Data with Microsoft SQL Server Studio
 Project Overview: This portfolio project showcases my proficiency and expertise in using Microsoft SQL Server Management Studio (SSMS) to manage, analyze, and visualize complex datasets. Through this project, I demonstrate my capability to handle various tasks within SQL Server, including database design, data import/export, query optimization, and data reporting.
 
 Key Accomplishments:
